@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "ko-KR"
 title                    : "LoadWithWater"
 title_separator          : "|"
-subtitle                 : "LLW" # site tagline that appears below site title in masthead
-name                     : 
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "LLW"
 description              : "An amazing website."
 url                      : "https://LoadWithWater.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
