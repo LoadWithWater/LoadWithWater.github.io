@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "LoadWithWater"
 title_separator          : "|"
 subtitle                 : "LLW" # site tagline that appears below site title in masthead
-name                     : "LLW"
+name                     : 
 description              : "An amazing website."
 url                      : "https://LoadWithWater.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   name             : "LoadWithWater"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : ""
+  location         : 
   email            :
   links:
     - label: "Email"
