@@ -115,7 +115,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/LoadWithWater"
+      # url: "https://github.com/LoadWithWater"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/LoadWithWater"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -294,5 +294,5 @@ defaults:
       toc: true
       toc_sticky: true
       toc_label: "On this page"
-      toc_icon: "fa-book-bookmark"
+      toc_icon: "fab fa-fw fa-book-bookmark"
 date_format: "%Y-%m-%d"
